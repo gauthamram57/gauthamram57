@@ -21,7 +21,7 @@
 - **Python**
 - **Bash**
 - **JavaScript**
-- **C** *(basics)*
+- **C** 
 
 ### 🔐 Security Domains
 - 🧪 **Penetration Testing** (Web & basic network attacks)
