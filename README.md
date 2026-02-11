@@ -51,9 +51,13 @@
 
 ## 📊 GitHub Activity
 
-![Gautham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauthamram57&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gauthamram57&show_icons=true&theme=tokyonight" alt="Gautham's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauthamram57&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gauthamram57&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
