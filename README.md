@@ -51,9 +51,11 @@
 
 ## 📊 GitHub Activity
 
-![Gautham's GitHub Stats](https://github-readme-stats-tau-pied-14.vercel.app/api?username=gauthamram57&show_icons=true&theme=tokyonight)
+![Gautham's GitHub Stats](https://github-readme-stats-pied-xi-18.vercel.app/api?username=gauthamram57&show_icons=true&theme=tokyonight&hide=stars,issues&hide_rank=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats-tau-pied-14.vercel.app/api/top-langs/?username=gauthamram57&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=gauthamram57&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats-pied-xi-18.vercel.app/api/top-langs/?username=gauthamram57&layout=compact&theme=tokyonight&langs_count=6)
 
 ---
 
