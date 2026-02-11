@@ -51,8 +51,6 @@
 
 ## 📊 GitHub Activity
 
-## 📊 GitHub Activity
-
 ![Gautham's GitHub Stats](https://github-readme-stats-tau-pied-14.vercel.app/api?username=gauthamram57&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats-tau-pied-14.vercel.app/api/top-langs/?username=gauthamram57&layout=compact&theme=tokyonight)
