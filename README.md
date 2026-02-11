@@ -50,14 +50,15 @@
 ---
 
 ## 📊 GitHub Activity
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-pied-xi-18.vercel.app/api?username=gauthamram57&show_icons=true&theme=tokyonight&hide=stars,issues&hide_rank=true&include_all_commits=true&disable_animations=false" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=gauthamram57&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-pied-xi-18.vercel.app/api?username=gauthamram57&show_icons=true&theme=transparent&hide=stars,issues&hide_rank=true&include_all_commits=true&border_radius=10&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=gauthamram57&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-pied-xi-18.vercel.app/api/top-langs/?username=gauthamram57&layout=compact&theme=tokyonight&langs_count=6" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=gauthamram57&theme=tokyo-night&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats-pied-xi-18.vercel.app/api/top-langs/?username=gauthamram57&layout=compact&theme=transparent&langs_count=6&hide_border=true" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=gauthamram57&theme=github-compact&hide_border=true" />
 </p>
 
 ---
