@@ -21,7 +21,7 @@
 - **Python**
 - **Bash**
 - **JavaScript**
-- **C** 
+- **C**
 
 ### 🔐 Security Domains
 - 🧪 **Penetration Testing** (Web & basic network attacks)
@@ -51,16 +51,19 @@
 
 ## 📊 GitHub Activity
 
-> Stats and language breakdown coming soon 🚀
+![Gautham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauthamram57&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauthamram57&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
 - 💬 Open to learning, discussions, and collaborations
-- 🐙 **Linkedin**: https://www.linkedin.com/in/gauthamram57/
+- 🐙 **LinkedIn**: https://www.linkedin.com/in/gauthamram57/
 
 ---
 
 ### ⚡ Philosophy
+
 > **Hands-on practice beats theory every single time.**
