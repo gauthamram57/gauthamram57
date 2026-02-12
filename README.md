@@ -1,9 +1,8 @@
 # Hi, I'm Gautham
 
 ### Cybersecurity Learner | Aspiring Pentester & SOC Analyst
-
-> Learning security by building, breaking, and understanding systems — ethically.  
-> “Persistence and determination alone are omnipotent.” — Ray Kroc
+  
+> “Persistence and determination alone are omnipotent.” — Calvin Coolidge
 
 ---
 
