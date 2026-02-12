@@ -1,55 +1,40 @@
-# 👋 Hi, I'm Gautham
+# Hi, I'm Gautham
 
 ### 🔐 Cybersecurity Learner | Aspiring Pentester & SOC Analyst
 
-> *Learning security by building, breaking, and understanding systems — ethically.*
+> Learning security by building, breaking, and understanding systems — ethically.  
+> “Persistence and determination alone are omnipotent.” — Ray Kroc
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 🧠 Strong interest in **Pentesting**, **SOC Operations**, and **Threat Analysis**
-- 🔍 Focused on **hands-on cybersecurity projects** over pure theory
-- ⚙️ Curious about how real-world attacks work and how to defend against them
-- 🐧 Comfortable working in **Linux environments** (Kali / Ubuntu)
+I am focused on building a strong foundation in cybersecurity with emphasis on penetration testing, SOC operations, and threat analysis. My approach is hands-on and practical: I learn by experimenting with systems, studying real-world attack techniques, and understanding how defenses are designed and implemented.
 
----
-
-## 🧰 Skills & Tools
-
-### 💻 Languages
-- **Python**
-- **Bash**
-- **JavaScript**
-- **C**
-
-### 🔐 Security Domains
-- 🧪 **Penetration Testing** (Web & basic network attacks)
-- 🛡️ **SOC & Threat Analysis**
-- 🌐 **Web Security & Vulnerability Analysis**
-- 📡 **Networking Fundamentals**
-
-### 🛠️ Tools I Use
-- **Nmap**
-- **Burp Suite**
-- **Wireshark**
-- **Metasploit**
-- **Linux CLI**
+I use this GitHub to document my learning journey, projects, and experiments as I steadily build depth in security engineering and defensive operations.
 
 ---
 
-## 🏴‍☠️ Projects & Learning
+## Areas of Focus
 
-- 🔐 **Cybersecurity Projects** – Practical and real-world focused
-- 🧠 **Security Labs & Experiments** – Learning vulnerabilities step by step
-- 📌 Inside my repositories:
-  - Clean documentation
-  - Scripts & tools built while learning
-  - Concepts explained in simple terms
+- Penetration Testing  
+- SOC Operations and Monitoring  
+- Threat Analysis and Detection  
+- Web and Network Security Fundamentals  
+- Linux Environments
 
 ---
 
-## 📊 GitHub Activity
+## What You'll Find Here
+
+- Practice projects and security labs  
+- Notes and experiments from my learning  
+- Small tools and scripts built during study  
+- Clear documentation of concepts and workflows  
+
+---
+
+## GitHub Activity
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats-pied-xi-18.vercel.app/api?username=gauthamram57&show_icons=true&theme=transparent&hide=stars,issues&hide_rank=true&include_all_commits=true&border_radius=10&hide_border=true" />
@@ -63,13 +48,6 @@
 
 ---
 
-## 📫 Connect With Me
+## Contact
 
-- 💬 Open to learning, discussions, and collaborations
-- 🐙 **LinkedIn**: https://www.linkedin.com/in/gauthamram57/
-
----
-
-### ⚡ Philosophy
-
-> **Hands-on practice beats theory every single time.**
+LinkedIn: https://www.linkedin.com/in/gauthamram57/
