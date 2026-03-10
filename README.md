@@ -1,6 +1,6 @@
-# Hi, I'm Gautham
+# Hi, I'm Gautham (GT57) ⚡
 
-### Cybersecurity Learner | Aspiring Pentester & SOC Analyst
+### Application Security & Cloud Defense | B.Tech CS (Cybersecurity '27)
   
 > “Persistence and determination alone are omnipotent.” — Calvin Coolidge
 
@@ -8,28 +8,27 @@
 
 ## About Me
 
-I am focused on building a strong foundation in cybersecurity with emphasis on penetration testing, SOC operations, and threat analysis. My approach is hands-on and practical: I learn by experimenting with systems, studying real-world attack techniques, and understanding how defenses are designed and implemented.
+I am a Computer Science undergrad specializing in Cybersecurity, focused on the intersection of offensive security and scalable defense. Transitioning from competitive CTF environments to enterprise Application Security, I specialize in hunting complex logic flaws in modern APIs and building automated security guardrails. 
 
-I use this GitHub to document my learning journey, projects, and experiments as I steadily build depth in security engineering and defensive operations.
+I don't just look for vulnerabilities; my goal is to understand the underlying web architecture and engineer automated solutions to secure it. 
 
 ---
 
-## Areas of Focus
+## Core Competencies
 
-- Penetration Testing  
-- SOC Operations and Monitoring  
-- Threat Analysis and Detection  
-- Web and Network Security Fundamentals  
-- Linux Environments
+- **Application Security:** Web & API Vulnerability Research (OWASP Top 10)
+- **Offensive Security:** Penetration Testing & Active Directory Exploitation
+- **Cloud & Automation:** AWS Security Posture, Python Scripting for DevSecOps
+- **Vulnerability Disclosure:** Responsible disclosure and PoC development
 
 ---
 
 ## What You'll Find Here
 
-- Practice projects and security labs  
-- Notes and experiments from my learning  
-- Small tools and scripts built during study  
-- Clear documentation of concepts and workflows  
+- **Security Automation Tools:** Python scripts built to automate cloud security auditing and threat detection.
+- **Vulnerability Research:** Proof-of-Concept (PoC) write-ups and methodologies for logic flaws and API bypasses.
+- **CTF & Lab Engineering:** Custom exploits and tactical breakdowns from competitive environments.
+- **Infrastructure Defense:** Experiments in securing CI/CD pipelines and cloud-native environments.
 
 ---
 
@@ -47,6 +46,6 @@ I use this GitHub to document my learning journey, projects, and experiments as 
 
 ---
 
-## Contact
+## Let's Connect
 
-LinkedIn: https://www.linkedin.com/in/gauthamram57/
+- **LinkedIn:** [gauthamram57](https://www.linkedin.com/in/gauthamram57/)
