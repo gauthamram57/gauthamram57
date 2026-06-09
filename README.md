@@ -1,51 +1,51 @@
-# Hi, I'm Gautham (GT57) ⚡
+# Gautham Ram (GT57) ⚡
 
-### Application Security & Cloud Defense | B.Tech CS (Cybersecurity '27)
-  
-> “Persistence and determination alone are omnipotent.” — Calvin Coolidge
+**B.Tech Computer Science · Cybersecurity Specialization · Amrita '27**
 
----
+> *"Persistence and determination alone are omnipotent."* — Calvin Coolidge
 
-## About Me
-
-I am a Computer Science undergrad specializing in Cybersecurity, focused on the intersection of offensive security and scalable defense. Transitioning from competitive CTF environments to enterprise Application Security, I specialize in hunting complex logic flaws in modern APIs and building automated security guardrails. 
-
-I don't just look for vulnerabilities; my goal is to understand the underlying web architecture and engineer automated solutions to secure it. 
+> *"Don't half-ass two things. Whole-ass one thing."* — Ron Swanson
 
 ---
 
-## Core Competencies
-
-- **Application Security:** Web & API Vulnerability Research (OWASP Top 10)
-- **Offensive Security:** Penetration Testing & Active Directory Exploitation
-- **Cloud & Automation:** AWS Security Posture, Python Scripting for DevSecOps
-- **Vulnerability Disclosure:** Responsible disclosure and PoC development
+Final-year CS undergrad. I find vulnerabilities manually, then build tools
+to catch them at scale. Rooted in competitive CTF — Team Hunter, Top 8–10
+India on CTFtime — and actively hunting bugs on Intigriti.
 
 ---
 
-## What You'll Find Here
+## What I Work On
 
-- **Security Automation Tools:** Python scripts built to automate cloud security auditing and threat detection.
-- **Vulnerability Research:** Proof-of-Concept (PoC) write-ups and methodologies for logic flaws and API bypasses.
-- **CTF & Lab Engineering:** Custom exploits and tactical breakdowns from competitive environments.
-- **Infrastructure Defense:** Experiments in securing CI/CD pipelines and cloud-native environments.
+**Offensive**
+Web & API exploitation · OAuth attack chains · Binary exploitation ·
+Reverse engineering · Network forensics · Logic flaws · IDOR
 
----
-
-## GitHub Activity
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-pied-xi-18.vercel.app/api?username=gauthamram57&show_icons=true&theme=transparent&hide=stars,issues&hide_rank=true&include_all_commits=true&border_radius=10&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=gauthamram57&theme=transparent&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-pied-xi-18.vercel.app/api/top-langs/?username=gauthamram57&layout=compact&theme=transparent&langs_count=6&hide_border=true" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=gauthamram57&theme=github-compact&hide_border=true" />
-</p>
+**Defensive**
+SAST + DAST + SCA pipelines · AWS IAM & cloud posture ·
+Python security automation · DevSecOps
 
 ---
 
-## Let's Connect
+## Projects
 
-- **LinkedIn:** [gauthamram57](https://www.linkedin.com/in/gauthamram57/)
+| | Project | What it does |
+|---|---|---|
+| 🔴 | [appsec-ci-pipeline](https://github.com/gauthamram57/appsec-ci-pipeline) | Vulnerable Django app · Semgrep + Trivy + OWASP ZAP in GitHub Actions · Live on Render |
+| 📓 | [100-Days-Of-AppSec](https://github.com/gauthamram57/100-Days-Of-AppSec) | Daily log of AppSec labs, bug bounty methodology, and tooling |
+
+---
+
+## Certifications
+
+PJPT · TCM Security &nbsp;|&nbsp; ISC2 CC &nbsp;|&nbsp; Splunk Core Certified
+
+---
+
+## Recognition
+
+🏆 Team Hunter — Top 8–10 India · CTFtime.org  
+🐛 Active bug bounty researcher · Intigriti
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/gauthamram57/) · [GitHub](https://github.com/gauthamram57)
