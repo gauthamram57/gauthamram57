@@ -4,7 +4,6 @@
 
 > *"Persistence and determination alone are omnipotent."* — Calvin Coolidge
 
-
 ---
 
 Final-year CS undergrad. I find vulnerabilities manually, then build tools
@@ -21,7 +20,7 @@ Reverse engineering · Network forensics · Logic flaws · IDOR
 
 **Defensive**
 SAST + DAST + SCA pipelines · AWS IAM & cloud posture ·
-Python security automation · DevSecOps
+LLM/AI security · Python security automation · DevSecOps
 
 ---
 
@@ -31,6 +30,10 @@ Python security automation · DevSecOps
 |---|---|---|
 | 🔴 | [appsec-ci-pipeline](https://github.com/gauthamram57/appsec-ci-pipeline) | Vulnerable Django app · Semgrep + Trivy + OWASP ZAP in GitHub Actions · Live on Render |
 | 📓 | [100-Days-Of-AppSec](https://github.com/gauthamram57/100-Days-Of-AppSec) | Daily log of AppSec labs, bug bounty methodology, and tooling |
+| 🔐 | burp-jwt-detector *(coming soon)* | Burp extension · JWT + mass assignment detection |
+| ☁️ | aws-misconfig-scanner *(coming soon)* | AWS free tier · Boto3 · IAM + S3 misconfiguration detection |
+| 🤖 | llm-injection-firewall *(coming soon)* | FastAPI · Ollama · Prompt injection detection · OWASP LLM Top 10 |
+| 🔬 | llm-red-teaming-ci *(coming soon)* | Garak + Promptfoo · OWASP LLM Top 10 scanning in GitHub Actions |
 
 ---
 
@@ -42,7 +45,7 @@ PJPT · TCM Security &nbsp;|&nbsp; ISC2 CC &nbsp;|&nbsp; Splunk Core Certified
 
 ## Recognition
 
-🏆 Team Hunter — Top 8–10 India · CTFtime.org  
+🏆 Team Hunter — Top 8–10 India · CTFtime.org
 🐛 Active bug bounty researcher · Intigriti
 
 ---
