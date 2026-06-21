@@ -1,59 +1,39 @@
 # Gautham Ram (GT57) ⚡
 
-**B.Tech Computer Science (Cybersecurity) · Amrita Vishwa Vidyapeetham '27**
+**B.Tech Computer Science · Cybersecurity Specialization · Amrita '27**
 
 > *"Persistence and determination alone are omnipotent."* — Calvin Coolidge
 
-Application Security enthusiast focused on web and API security. I enjoy understanding vulnerabilities manually and building tooling to automate detection and security testing workflows. Active in CTFs, bug bounty hunting, and AppSec engineering.
+---
+
+Final-year CS undergrad. I find vulnerabilities manually, then build tools to catch them at scale. Rooted in competitive CTFs — Team Hunter, Top 8–10 India on CTFtime — and actively hunting bugs on Intigriti.
 
 ---
 
-## Areas of Interest
+## What I Work On
 
-### Offensive Security
+### Offensive
 
-* Web application security
-* API security and authorization flaws
-* OAuth attack chains
-* IDOR and business logic vulnerabilities
-* Binary exploitation and reverse engineering
-* Network forensics
+Web & API exploitation · OAuth attack chains · Binary exploitation · Reverse engineering · Network forensics · Logic flaws · IDOR
 
-### Application Security & DevSecOps
+### Defensive
 
-* SAST, DAST and SCA pipelines
-* Python security automation
-* CI/CD security
-* AWS IAM and cloud security fundamentals
-* Secure SDLC and DevSecOps
+SAST + DAST + SCA pipelines · AWS IAM & cloud posture · LLM/AI security · Python security automation · DevSecOps
 
----
 
-## Projects
 
-|     | Project                                                                  | Description                                                                           |
-| --- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
-| 🔴  | [appsec-ci-pipeline](https://github.com/gauthamram57/appsec-ci-pipeline) | DevSecOps pipeline integrating Semgrep, Trivy and OWASP ZAP with GitHub Actions       |
-| 📓  | [100-Days-Of-AppSec](https://github.com/gauthamram57/100-Days-Of-AppSec) | Documentation of labs, methodologies and AppSec learning                              |
-| 🛡️ | AuthScope *(coming soon)*                                                | Burp Suite extension for Broken Access Control, BOLA and privilege escalation testing |
-| ☁️  | aws-misconfig-scanner *(coming soon)*                                    | Python tool for detecting IAM and S3 misconfigurations                                |
-| 🔬  | llm-red-teaming-ci *(coming soon)*                                       | Automated LLM security testing using Garak and Promptfoo                              |
+## Certifications
 
----
+PJPT · TCM Security  |  ISC2 CC  |  Splunk Core Certified
 
-## Certifications 
-
-PJPT · TCM Security &nbsp;|&nbsp; ISC2 CC &nbsp;|&nbsp; Splunk Core Certified 
 ---
 
 ## Recognition
 
-🏆 Team Hunter — Top 10 India on CTFtime
+🏆 Team Hunter — Top 8–10 India · CTFtime.org
 
-🐛 Active bug bounty researcher
+🐛 Active bug bounty researcher · Intigriti
 
 ---
 
-### Connect
-
-[LinkedIn](https://www.linkedin.com/in/gauthamram57/) • [GitHub](https://github.com/gauthamram57)
+[LinkedIn](https://www.linkedin.com/in/gauthamram57/) · [GitHub](https://github.com/gauthamram57)
