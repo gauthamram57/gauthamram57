@@ -6,7 +6,7 @@
 
 ---
 
-Final-year CS undergrad. I find vulnerabilities manually, then build tools to catch them at scale. Rooted in competitive CTFs — Team Hunter, Top 8–10 India on CTFtime — and actively hunting bugs on Intigriti.
+Final-year CS undergrad. I find vulnerabilities manually, then build tools to catch them at scale. Rooted in competitive CTFs — Team Hunter, Top 10 India on CTFtime — and actively hunting bugs.
 
 ---
 
@@ -30,9 +30,9 @@ PJPT · TCM Security  |  ISC2 CC  |  Splunk Core Certified
 
 ## Recognition
 
-🏆 Team Hunter — Top 8–10 India · CTFtime.org
+Team Hunter — Top 8–10 India · CTFtime.org
 
-🐛 Active bug bounty researcher · Intigriti
+Active bug bounty researcher
 
 ---
 
