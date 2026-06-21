@@ -1,53 +1,62 @@
 # Gautham Ram (GT57) ⚡
 
-**B.Tech Computer Science · Cybersecurity Specialization · Amrita '27**
+**B.Tech Computer Science (Cybersecurity) · Amrita Vishwa Vidyapeetham '27**
 
 > *"Persistence and determination alone are omnipotent."* — Calvin Coolidge
 
----
-
-Final-year CS undergrad. I find vulnerabilities manually, then build tools
-to catch them at scale. Rooted in competitive CTF — Team Hunter, Top 8–10
-India on CTFtime — and actively hunting bugs on Intigriti.
+Application Security enthusiast focused on web and API security. I enjoy understanding vulnerabilities manually and building tooling to automate detection and security testing workflows. Active in CTFs, bug bounty hunting, and AppSec engineering.
 
 ---
 
-## What I Work On
+## Areas of Interest
 
-**Offensive**
-Web & API exploitation · OAuth attack chains · Binary exploitation ·
-Reverse engineering · Network forensics · Logic flaws · IDOR
+### Offensive Security
 
-**Defensive**
-SAST + DAST + SCA pipelines · AWS IAM & cloud posture ·
-LLM/AI security · Python security automation · DevSecOps
+* Web application security
+* API security and authorization flaws
+* OAuth attack chains
+* IDOR and business logic vulnerabilities
+* Binary exploitation and reverse engineering
+* Network forensics
+
+### Application Security & DevSecOps
+
+* SAST, DAST and SCA pipelines
+* Python security automation
+* CI/CD security
+* AWS IAM and cloud security fundamentals
+* Secure SDLC and DevSecOps
 
 ---
 
 ## Projects
 
-| | Project | What it does |
-|---|---|---|
-| 🔴 | [appsec-ci-pipeline](https://github.com/gauthamram57/appsec-ci-pipeline) | Vulnerable Django app · Semgrep + Trivy + OWASP ZAP in GitHub Actions · Live on Render |
-| 📓 | [100-Days-Of-AppSec](https://github.com/gauthamram57/100-Days-Of-AppSec) | Daily log of AppSec labs, bug bounty methodology, and tooling |
-| 🔐 | burp-jwt-detector *(coming soon)* | Burp extension · JWT + mass assignment detection |
-| ☁️ | aws-misconfig-scanner *(coming soon)* | AWS free tier · Boto3 · IAM + S3 misconfiguration detection |
-| 🤖 | llm-injection-firewall *(coming soon)* | FastAPI · Ollama · Prompt injection detection · OWASP LLM Top 10 |
-| 🔬 | llm-red-teaming-ci *(coming soon)* | Garak + Promptfoo · OWASP LLM Top 10 scanning in GitHub Actions |
+|     | Project                                                                  | Description                                                                           |
+| --- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| 🔴  | [appsec-ci-pipeline](https://github.com/gauthamram57/appsec-ci-pipeline) | DevSecOps pipeline integrating Semgrep, Trivy and OWASP ZAP with GitHub Actions       |
+| 📓  | [100-Days-Of-AppSec](https://github.com/gauthamram57/100-Days-Of-AppSec) | Documentation of labs, methodologies and AppSec learning                              |
+| 🛡️ | AuthScope *(coming soon)*                                                | Burp Suite extension for Broken Access Control, BOLA and privilege escalation testing |
+| ☁️  | aws-misconfig-scanner *(coming soon)*                                    | Python tool for detecting IAM and S3 misconfigurations                                |
+| 🔬  | llm-red-teaming-ci *(coming soon)*                                       | Automated LLM security testing using Garak and Promptfoo                              |
 
 ---
 
 ## Certifications
 
-PJPT · TCM Security &nbsp;|&nbsp; ISC2 CC &nbsp;|&nbsp; Splunk Core Certified
+* Practical Junior Penetration Tester (PJPT) — TCM Security
+* ISC2 Certified in Cybersecurity (CC)
+* Splunk Core Certified User
 
 ---
 
 ## Recognition
 
-🏆 Team Hunter — Top 8–10 India · CTFtime.org
-🐛 Active bug bounty researcher · Intigriti
+🏆 Team Hunter — Top 10 India on CTFtime
+
+🐛 Active bug bounty researcher
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/gauthamram57/) · [GitHub](https://github.com/gauthamram57)
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/gauthamram57/) • [GitHub](https://github.com/gauthamram57)
