@@ -41,12 +41,7 @@ Application Security enthusiast focused on web and API security. I enjoy underst
 
 ---
 
-## Certifications
-
-* Practical Junior Penetration Tester (PJPT) — TCM Security
-* ISC2 Certified in Cybersecurity (CC)
-* Splunk Core Certified User
-
+## Certifications PJPT · TCM Security &nbsp;|&nbsp; ISC2 CC &nbsp;|&nbsp; Splunk Core Certified 
 ---
 
 ## Recognition
