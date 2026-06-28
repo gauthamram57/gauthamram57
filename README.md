@@ -36,4 +36,4 @@ Active bug bounty researcher
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/gauthamram57/) · [GitHub](https://github.com/gauthamram57)
+[LinkedIn](https://www.linkedin.com/in/gauthamram57/) · [GitHub](https://github.com/gauthamram57) · [Portfolio](https://gauthamram.me)
