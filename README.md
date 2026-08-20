@@ -39,4 +39,4 @@ SAST + DAST + SCA pipelines · AWS IAM & cloud posture · LLM/AI security · Pyt
 
 ---
 
-🔗 [LinkedIn](https://www.linkedin.com/in/gauthamram57/) · [GitHub](https://github.com/gauthamram57) · [Portfolio](https://gauthamram.com)
+[LinkedIn](https://www.linkedin.com/in/gauthamram57/) · [GitHub](https://github.com/gauthamram57) · [Portfolio](https://gauthamram.me)
