@@ -10,30 +10,33 @@ Final-year CS undergrad. I find vulnerabilities manually, then build tools to ca
 
 ---
 
-## What I Work On
+## 🛠️ Featured Security Projects
 
-### Offensive
+- **[APIShield](https://github.com/gauthamram57/apishield)**: Enterprise-grade API security learning platform built with FastAPI, PostgreSQL, and Clean Architecture focusing on OWASP API Security Top 10.
+- **[SAST FP Reducer](https://github.com/gauthamram57/sast-fp-reducer)**: Multi-model AI consensus engine (OpenRouter + Groq) that classifies Semgrep SAST findings as True/False Positives.
+- **[Interview Sentinel](https://github.com/gauthamram57/interview-sentinel)**: Real-time interview environment verification platform with desktop attestation & security monitoring.
+- **[AuthScope](https://github.com/gauthamram57/authscope)**: Burp Suite extension for detecting Broken Access Control vulnerabilities through request mutation and replay analysis.
+- **[AppSec CI Pipeline](https://github.com/gauthamram57/appsec-ci-pipeline)**: Vulnerable Django application integrated with SAST (Semgrep), SCA (Trivy), and DAST (OWASP ZAP) in GitHub Actions.
 
+---
+
+## 🎯 Technical Skillset
+
+### Offensive Security
 Web & API exploitation · OAuth attack chains · Binary exploitation · Reverse engineering · Network forensics · Logic flaws · IDOR
 
-### Defensive
-
+### Defensive Security & DevSecOps
 SAST + DAST + SCA pipelines · AWS IAM & cloud posture · LLM/AI security · Python security automation · DevSecOps
 
+---
 
+## 📜 Certifications & Achievements
 
-## Certifications
-
-PJPT · TCM Security  |  ISC2 CC  |  Splunk Core Certified
+- **PJPT** (Practical Junior Penetration Tester) — TCM Security
+- **ISC2 CC** (Certified in Cybersecurity)
+- **Splunk Core Certified**
+- **Team Hunter**: Top 8–10 India on CTFtime.org
 
 ---
 
-## Recognition
-
-Team Hunter — Top 8–10 India · CTFtime.org
-
-Active bug bounty researcher
-
----
-
-[LinkedIn](https://www.linkedin.com/in/gauthamram57/) · [GitHub](https://github.com/gauthamram57) · [Portfolio](https://gauthamram.me)
+🔗 [LinkedIn](https://www.linkedin.com/in/gauthamram57/) · [GitHub](https://github.com/gauthamram57) · [Portfolio](https://gauthamram.com)
