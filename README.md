@@ -10,7 +10,7 @@ Final-year CS undergrad. I find vulnerabilities manually, then build tools to ca
 
 ---
 
-## 🛠️ Featured Security Projects
+##  Featured Security Projects
 
 - **[APIShield](https://github.com/gauthamram57/apishield)**: Enterprise-grade API security learning platform built with FastAPI, PostgreSQL, and Clean Architecture focusing on OWASP API Security Top 10.
 - **[SAST FP Reducer](https://github.com/gauthamram57/sast-fp-reducer)**: Multi-model AI consensus engine (OpenRouter + Groq) that classifies Semgrep SAST findings as True/False Positives.
