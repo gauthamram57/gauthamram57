@@ -20,7 +20,7 @@ Final-year CS undergrad. I find vulnerabilities manually, then build tools to ca
 
 ---
 
-## 🎯 Technical Skillset
+##  Technical Skillset
 
 ### Offensive Security
 Web & API exploitation · OAuth attack chains · Binary exploitation · Reverse engineering · Network forensics · Logic flaws · IDOR
@@ -30,7 +30,7 @@ SAST + DAST + SCA pipelines · AWS IAM & cloud posture · LLM/AI security · Pyt
 
 ---
 
-## 📜 Certifications & Achievements
+##  Certifications & Achievements
 
 - **PJPT** (Practical Junior Penetration Tester) — TCM Security
 - **ISC2 CC** (Certified in Cybersecurity)
